@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kalkulator Sederhana</string>
+    <string name="judul">Kalkulator (Hitung dan Simpan) </string>
+    <string name="hasil">Hasil: </string>
+    <string name="tidak_dapat_dibagi_nol">Tidak dapat dibagi dengan nol</string>
+    <string name="clear">C</string>
+    <string name="sama_dengan">=</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">*</string>
+    <string name="bagi">/</string>
+    <string name="angka0">0</string>
+    <string name="angka1">1</string>
+    <string name="angka2">2</string>
+    <string name="angka3">3</string>
+    <string name="angka4">4</string>
+    <string name="angka5">5</string>
+    <string name="angka6">6</string>
+    <string name="angka7">7</string>
+    <string name="angka8">8</string>
+    <string name="angka9">9</string>
+</resources>
